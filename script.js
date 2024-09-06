@@ -38,7 +38,7 @@ gsap.to(sequencer, {
   onUpdate: render // use animation onUpdate instead of scrollTrigger's onUpdate
 });
 
-images[60].onload = render;
+images[90].onload = render;
 
 function render() {
   context.clearRect(0, 0, canvas.width, canvas.height);
