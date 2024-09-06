@@ -13,7 +13,7 @@ else
 
 const frameCount = 240;
 const currentFrame = index => (
-  `imgs/raw/hex-hex-2-${(index+1).toString()}.jpg`
+  `imgs/tinified/hex-hex-2-${(index+1).toString()}.jpg`
 );
 
 
